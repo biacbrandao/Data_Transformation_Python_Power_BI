@@ -12,7 +12,7 @@
 * The csv file is a dataset containing the information regarding the popular tv show FRIENDS.
 ![Friends-serie](Friends-serie.jpg)
 
-* It was sourced from the Kaggle comunity and can be found at the link below
+* The file was sourced from the Kaggle comunity and can be found at the link below
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets/rezaghari/friends-series-dataset)
 
