@@ -39,4 +39,4 @@ print(df)
 ```
 
 ### Dashboard
-![Dashboard](Dashboard.jpg)
+![Dashboard](Dashboard_image.jpg)
