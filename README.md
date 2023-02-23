@@ -10,6 +10,7 @@
 </div>
 
 * The csv file is a dataset containing the information regarding the popular tv show FRIENDS.
+
 ![image-friends](image-friends.jpeg)
 
 * The file was sourced from the Kaggle comunity and can be found at the link below
@@ -38,4 +39,4 @@ print(df)
 ```
 
 ### Dashboard
-![Dashboard](image/README/Dashboard.jpg)
+![Dashboard](Dashboard.jpg)
