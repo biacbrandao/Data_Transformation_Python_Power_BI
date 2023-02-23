@@ -38,4 +38,4 @@ print(df)
 ```
 
 ### Dashboard
-![filename](image/README/filename.png)
+![Dashboard](image/README/Dashboard.jpg)
